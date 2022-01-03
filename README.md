@@ -3,5 +3,5 @@ An authentication system that combines web2 and web3 to verify if a user owns th
 
 Feel free to use it or add issues. This is not intended for production just yet and is being worked on. More documentation will come soon.
 
-# Screenshots
+# Preview
 ![alt text](images/preview.png?raw=true)
